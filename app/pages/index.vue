@@ -2,7 +2,7 @@
     <div class="bg-gray-900 !text-white w-full min-h-screen">
         <div class="bg-[url(/img/logo.png)]  bg-cover">
             <div class="bg-gray-500/20 backdrop-blur-md min-h-screen !p-8 !pb-20">
-                <div class="h-full w-full flex flex-col gap-20 items-center justify-between">
+                <div class="w-full flex flex-col gap-10 items-center justify-between">
                     <div class="w-full flex items-center justify-center p-5">
                         <div class="relative md:w-[20%]">
                             <div class="relative">
@@ -14,7 +14,7 @@
                         </div>
                     </div>
 
-                    <div class="md:w-[50%] text-center text-xl tracking-widest font-thin leading-9">
+                    <div class="md:w-[50%] text-center text-xl tracking-widest font-thin leading-9 mb-20">
                         A Place of Style and Quality.
                         We are more than just a brand; we are your first choice for high-end leather goods, classic
                         apparel,
@@ -24,7 +24,7 @@
                     </div>
 
                     <div class=" w-[300px] flex flex-col items-center justify-center gap-2">
-                        <p class="mb-2 text-xl font-semibold uppercase text-center">Proudly Presented by </p>
+                        <p class="mb-2 text-md font-semibold uppercase text-center">Proudly Presented by </p>
                         <a target="_blank" href="https://www.bishaloy.com">
                             <div class=" flex flex-col items-center justify-center gap-3">
                                 <div class="relative">
