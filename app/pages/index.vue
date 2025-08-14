@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-gray-800 !text-white w-full min-h-screen !p-8">
+    <div class="bg-gray-800 !text-white w-full min-h-screen !p-8 !pb-20">
         <div class="h-full w-full flex flex-col gap-20 items-center justify-between">
             <div class="relative md:w-[30%]">
                 <div class="relative">
