@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-gray-800 w-full h-screen !p-8">
+    <div class="bg-gray-800 !text-white w-full h-screen !p-8">
         <div class="h-full w-full flex flex-col gap-20 items-center justify-between">
             <div class="relative md:w-[30%]">
                 <div class="relative">
@@ -10,7 +10,7 @@
                 </div>
             </div>
 
-            <div class="md:w-[50%] text-center text-xl tracking-widest font-thin leading-8">
+            <div class="md:w-[50%] text-center text-3xl tracking-widest font-thin leading-10">
                 A Place of Style and Quality.
                 We are more than just a brand; we are your first choice for high-end leather goods, classic apparel, and
                 sophisticated home décor.
