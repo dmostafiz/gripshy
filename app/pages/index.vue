@@ -5,7 +5,7 @@
                 <div class="relative">
                     <img class="w-[50%]" src="/img/logo.png" />
                 </div>
-                <div class="absolute top-[18%] opacity-80 left-15">
+                <div class="absolute top-[18%] left-15">
                     <img class="w-[90%]" src="/img/sign.png" />
                 </div>
             </div>
@@ -18,7 +18,7 @@
             </div>
 
             <div class=" w-[300px] flex flex-col items-center justify-center gap-2">
-                <p class="mb-5">A proudly Brand by Bishaloy</p>
+                <p class="mb-5 text-xl text-center">A luxurious Brand, Proudly Presented by </p>
                 <a target="_blank" href="https://www.bishaloy.com">
                     <div class=" flex flex-col items-center justify-center gap-3">
                         <div class="relative">
