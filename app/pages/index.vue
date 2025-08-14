@@ -18,7 +18,7 @@
             </div>
 
             <div class=" w-[300px] flex flex-col items-center justify-center gap-2">
-                <p class="mb-5 text-xl text-center">A luxurious Brand, Proudly Presented by </p>
+                <p class="mb-5 text-xl text-center">Proudly Presented by </p>
                 <a target="_blank" href="https://www.bishaloy.com">
                     <div class=" flex flex-col items-center justify-center gap-3">
                         <div class="relative">
