@@ -10,7 +10,7 @@
                 </div>
             </div>
 
-            <div class="md:w-[50%] text-center text-xl tracking-widest font-thin leading-10">
+            <div class="md:w-[50%] text-center text-xl tracking-widest font-thin leading-8">
                 A Place of Style and Quality.
                 We are more than just a brand; we are your first choice for high-end leather goods, classic apparel, and
                 sophisticated home décor.
